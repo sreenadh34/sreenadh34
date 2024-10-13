@@ -13,7 +13,6 @@ I'm a passionate developer exploring the world of **web development** with a foc
 ### 🌱 Learning
 - Full-stack development
 - Advanced JavaScript concepts
-- Web app deployment and CI/CD practices
 
 ### 🛠️ Technical Skills
 - **Languages**: JavaScript, TypeScript
@@ -29,9 +28,6 @@ I'm a passionate developer exploring the world of **web development** with a foc
 - LinkedIn: [https://www.linkedin.com/in/sreenadh-m43](https://www.linkedin.com/in/sreenadh-m43)
 - Twitter: [https://twitter.com/Sreenadh34](https://twitter.com/Sreenadh34)
 
-### 🌟 Fun Facts
-- I'm a self-taught developer.
-- I like JavaScript. 
 
 ---
 
