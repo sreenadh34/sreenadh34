@@ -6,10 +6,6 @@
 I'm a passionate developer exploring the world of **web development** with a focus on **JavaScript**. Currently, I'm diving into **full-stack development**.
 
 
-### 🔭 Currently Working On
-- Building web applications using JavaScript frameworks like React and Node.js.
-- Enhancing my skills in backend development and database management.
-
 ### 🌱 Learning
 - Full-stack development
 - Advanced JavaScript concepts
@@ -18,10 +14,6 @@ I'm a passionate developer exploring the world of **web development** with a foc
 - **Languages**: JavaScript, TypeScript
 - **Frameworks & Libraries**: React, Next.js, Node.js
 - **Tools & Platforms**: GitHub,Postman, EJS, Bootstrap, Tailwind, Bash, Git
-
-### 💬 Ask Me About
-- JavaScript
-- Coding tips for beginners
 
 ### 📫 Get In Touch
 - Email: [sreenadh@gmail.com](mailto:sreenadh@gmail.com)
