@@ -1,6 +1,17 @@
-# Hi there! 👋 I'm Sreenadh
+<div>
+
+# Hi there! 👋 I'm Sreenadh <img align='right' src="cat.gif" height="" width="300" alt="coding cat">
 
 
+</div>
+
+<div>
+
+
+
+</div>
+
+---
 
 ### About Me
 I'm a passionate developer exploring the world of **web development** with a focus on **JavaScript**. Currently, I'm diving into **full-stack development**.
