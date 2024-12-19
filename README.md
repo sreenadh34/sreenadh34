@@ -24,7 +24,7 @@ I'm a passionate developer exploring the world of **web development** with a foc
 ### 🛠️ Technical Skills
 - **Languages**: JavaScript, TypeScript
 - **Frameworks & Libraries**: React, Next.js, Node.js
-- **Tools & Platforms**: GitHub,Postman, EJS, Bootstrap, Tailwind, Bash, Git
+- **Tools & Platforms**: GitHub,Postman, EJS, Bootstrap, Tailwind, Bash, Git, GraphQL 
 
 ### 📫 Get In Touch
 - Email: [sreenadh@gmail.com](mailto:sreenadh@gmail.com)
