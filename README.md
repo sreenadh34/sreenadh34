@@ -14,7 +14,7 @@
 ---
 
 ### About Me
-I'm a passionate developer exploring the world of **web development** with a focus on **JavaScript**. Currently, I'm diving into **full-stack development**.
+I'm a passionate developer exploring the world of **web development** 
 
 
 ### 🌱 Learning
