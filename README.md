@@ -14,17 +14,25 @@
 ---
 
 ### About Me
-I'm a passionate developer exploring the world of **web development** 
-
+Developer building web and mobile applications.
 
 ### 🌱 Learning
-- Full-stack development
 - Advanced JavaScript concepts
 
 ### 🛠️ Technical Skills
-- **Languages**: JavaScript, TypeScript
-- **Frameworks & Libraries**: React, Next.js, Node.js
-- **Tools & Platforms**: GitHub,Postman, EJS, Bootstrap, Tailwind, Bash, Git, GraphQL 
+- Languages: JavaScript, TypeScript, HTML, CSS
+
+- Web Development: React, Next.js, Tailwind CSS, Bootstrap, EJS
+
+- Mobile Development: React Native
+
+- Backend & APIs: Node.js, Express.js, REST APIs, GraphQL, JWT Authentication
+
+- Databases: PostgreSQL, MongoDB
+
+- Cloud & DevOps: AWS, Docker, Nginx, Linux, Bash
+
+- Tools: Git, GitHub, Postman
 
 ### 📫 Get In Touch
 - Email: [sreenadh@gmail.com](mailto:sreenadh@gmail.com)
